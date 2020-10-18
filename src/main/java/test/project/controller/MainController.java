@@ -12,9 +12,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import test.project.form.PersonForm;
 import test.project.model.Person;
 
-/**
- * Created by Дмитрий on 16.10.2020.
- */
     @Controller
     public class MainController {
 

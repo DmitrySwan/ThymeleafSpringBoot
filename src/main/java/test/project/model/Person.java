@@ -1,8 +1,5 @@
 package test.project.model;
 
-/**
- * Created by Дмитрий on 16.10.2020.
- */
 public class Person {
     private String firstName;
     private String lastName;

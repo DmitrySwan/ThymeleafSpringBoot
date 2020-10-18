@@ -1,8 +1,5 @@
 package test.project.form;
 
-/**
- * Created by Дмитрий on 16.10.2020.
- */
 public class PersonForm {
     private String firstName;
     private String lastName;
